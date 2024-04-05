@@ -1,0 +1,1 @@
+{"pageProps":{"events":[{"name":"UserCreated","version":2,"summary":"When user is created event\n","domain":"Users","producerNames":["User Service"],"consumerNames":["Email Service"],"owners":["bhoopal"],"externalLinks":[],"badges":[],"tags":[],"historicVersions":["2.0","1.0"]}],"services":["Email Service","User Service"]},"__N_SSG":true}
